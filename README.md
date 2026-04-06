@@ -32,7 +32,7 @@
 
 ## Windows
 
-- [my-windhawk-mods](https://github.com/pongo/my-windhawk-mods) — collection of personal Windhawk modifications.
+- [my-windhawk-mods](https://github.com/pongo/my-windhawk-mods) — collection of personal Windhawk mods.
 
 ### CLI
 
