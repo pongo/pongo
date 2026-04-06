@@ -45,7 +45,7 @@
 - [StartMenuCleaner](https://github.com/pongo/StartMenuCleaner) — small utility that scans all dead shortcuts and empty folders on your Programs in Start menu. `C#`
 - [uppTimer](https://github.com/pongo/uppTimer) — a simple stopwatch. `C#`
 
-### Bots
+## Bots
 
 - [rapturebot](https://github.com/pongo/rapturebot) — телеграм-бот чатов Rapture, Аляска и нескольких других. `Python` `python-telegram-bot`
 - [fatmotorbot](https://github.com/pongo/fatmotorbot) — бот для telegram чата по похудению. `Node.js` `telegraf` `clean-architecture`
