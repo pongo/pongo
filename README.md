@@ -5,6 +5,7 @@
 - [af4](https://github.com/pongo/af4) — keyboard focused task-list app. `Vue`
 - [scrumyklon](https://github.com/pongo/scrumyklon) — recreation of the discontinued scrumy.com taskboard. `Vue`
 - [timeline](https://github.com/pongo/timeline) — a simple time tracker. `Vue`
+- [content-planner](https://github.com/pongo/content-planner) — контент-планер. `Vue`
 
 ### Demo
 
