@@ -6,6 +6,7 @@
 - [scrumyklon](https://github.com/pongo/scrumyklon) — recreation of the discontinued scrumy.com taskboard. `Vue`
 - [timeline](https://github.com/pongo/timeline) — a simple time tracker. `Vue`
 - [content-planner](https://github.com/pongo/content-planner) — контент-планер. `Vue`
+- [pongolinks](https://github.com/pongo/pongolinks) — a single-user self-hosted bookmark library.
 
 ### Demo
 
