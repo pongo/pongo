@@ -41,6 +41,8 @@
 
 - [clipt](https://github.com/pongo/clipt) — like clip.exe but trims before copying to the clipboard. `Zig`
 - [hddnosleep](https://github.com/pongo/hddnosleep) — prevent HDD from going to sleep. `Zig`
+- [shed](https://github.com/pongo/shed) — moves stale root items from a selected folder into ~\Shed. `Go`
+- [big](https://github.com/pongo/big) — finding the largest immediate entries inside a folder. `Go`
 
 ### GUI
 
