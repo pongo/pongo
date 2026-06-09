@@ -7,6 +7,7 @@
 - [timeline](https://github.com/pongo/timeline) — a simple time tracker. `Vue`
 - [content-planner](https://github.com/pongo/content-planner) — контент-планер. `Vue`
 - [pongolinks](https://github.com/pongo/pongolinks) — a single-user self-hosted bookmark library.
+- [checkgist](https://github.com/pongo/checkgist) — turn Markdown task lists into interactive checklists. `Vue`
 
 ### Demo
 
