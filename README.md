@@ -33,6 +33,7 @@
 - [epub-insert-footnotes](https://github.com/pongo/epub-insert-footnotes) — inserts footnotes inside the epub file. `Node.js`
 - [YouTube-Auto-Speed](https://github.com/pongo/YouTube-Auto-Speed) — YouTube auto speed bookmarklets and userscript.
 - [backup-gists.py](https://gist.github.com/pongo/562d5b5e701599f882cc637f71685a22) — script for backing up your GitHub gists. `Python`
+- [lj-dl](https://github.com/pongo/lj-dl) — LJ downloader. Fork with script for creating EPUB files. `Python`
 
 ## Windows
 
