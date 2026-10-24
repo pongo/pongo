@@ -45,6 +45,7 @@
 - [hddnosleep](https://github.com/pongo/hddnosleep) — prevent HDD from going to sleep. `Zig`
 - [big](https://github.com/pongo/big) — finding the largest immediate entries inside a folder. `Go`
 - [shed](https://github.com/pongo/shed) — moves stale root items from a selected folder into ~\Shed. `Go`
+- [backupfile](https://github.com/pongo/backupfile) — backup of just one file. `Rust`
 
 ### GUI
 
