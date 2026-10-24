@@ -51,6 +51,8 @@
 - [Orzeszek-Timer](https://github.com/pongo/Orzeszek-Timer) — a fork of the simple windows timer. `C#`
 - [StartMenuCleaner](https://github.com/pongo/StartMenuCleaner) — small utility that scans all dead shortcuts and empty folders on your Programs in Start menu. `C#`
 - [uppTimer](https://github.com/pongo/uppTimer) — a simple stopwatch. `C#`
+- [ScreenToGif](https://github.com/pongo/ScreenToGif) — исправил падения у редактора гифок. `C#`
+- [process-manager-fork](https://github.com/pongo/process-manager-fork) — desktop process supervisor. `tauri` `Rust`
 
 ## Bots
 
